@@ -1,0 +1,100 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abeed6.github.io" resolutions="1x" timestamp="1578585618764">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="335459846" ref="index"/>
+    <file name="pureness.css" crc="3976014340" ref="pureness"/>
+    <file name="_______.css" crc="4163744183" ref="ｔａｔｔｏｏｓ"/>
+  </folder>
+  <folder name="assets">
+    <file name="主軸.mp4-00-21-19-205.mp4" crc="519379883" seo="true" mt="1578016817000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pureness:ｔａｔｔｏｏｓ"/>
+    <file name="museutils.js" crc="340535759" ref="index:pureness:ｔａｔｔｏｏｓ"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pureness:ｔａｔｔｏｏｓ"/>
+    <file name="museconfig.js" crc="310584261" ref="index:pureness:ｔａｔｔｏｏｓ"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:pureness:ｔａｔｔｏｏｓ"/>
+    <file name="require.js" crc="7928878" ref="index:pureness:ｔａｔｔｏｏｓ"/>
+  </folder>
+  <folder name="images">
+    <file name="6b309650-1045-4a0b-8476-877c194f2f50-removebg-preview.png" crc="3862253138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6169.jpg" crc="4213387093" seo="true" ref="index:ｔａｔｔｏｏｓ">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="main4_0358.png" crc="4140055033" seo="true" ref="pureness">
+      <caption webpage="pureness" alt=""/>
+    </file>
+    <file name="主軸1_0313.png" crc="3902029826" seo="true" ref="pureness">
+      <caption webpage="pureness" alt=""/>
+    </file>
+    <file name="主軸0274.png" crc="4292064819" seo="true" ref="pureness">
+      <caption webpage="pureness" alt=""/>
+    </file>
+    <file name="main6_0094.png" crc="3834783216" seo="true" ref="pureness">
+      <caption webpage="pureness" alt=""/>
+    </file>
+    <file name="300_0085-crop-u210.png" crc="3862644485" seo="true" ref="pureness">
+      <caption webpage="pureness" alt=""/>
+    </file>
+    <file name="主軸4_0001png 00-21-27-209.png" crc="3858946088" seo="true" ref="pureness">
+      <caption webpage="pureness" alt=""/>
+    </file>
+    <file name="img_7110.jpg" crc="3806545334" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_8752.jpg" crc="4227065564" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_7205.jpg" crc="81660024" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_7212.jpg" crc="4214575276" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_8840.jpg" crc="351998682" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_4486.jpg" crc="272435327" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_6152.jpg" crc="494147003" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_7211.jpg" crc="514700941" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_7204.jpg" crc="276556338" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_87522.jpg" crc="83185737" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_3940.jpg" crc="525724417" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_7108.jpg" crc="4076170388" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_7109.jpg" crc="3769446153" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_7207.jpg" crc="4078355379" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_7209.jpg" crc="3815686220" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+    <file name="img_0075.jpg" crc="433608522" seo="true" ref="ｔａｔｔｏｏｓ">
+      <caption webpage="ｔａｔｔｏｏｓ" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="403399379" seo="true" mt="1578568085983" redirect="true"/>
+  <file name="pureness.html" crc="50186687" seo="true" mt="1578566134366" redirect="true"/>
+  <file name="ｔａｔｔｏｏｓ.html" crc="362093226" seo="true" mt="1578564708012" redirect="true"/>
+</manifest>
